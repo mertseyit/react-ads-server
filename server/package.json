@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "ads-client kütüphanesi kullanılarak bir TwinCAT projesindeki değişkenlere ve işlevselliklere Nodejs sunucusu üzerinden erişilmesini sağlayan bir çeşit sunucu",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Mert Seyit Yılmaz, Mustafa Erdoğdu and Hande Öz",
+  "license": "ISC",
+  "dependencies": {
+    "ads-client": "^1.14.3",
+    "ws": "^8.14.2"
+  }
+}
