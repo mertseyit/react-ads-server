@@ -1,6 +1,7 @@
 {
   "name": "ads-server",
   "private": true,
+  "author": "Mert Seyit Yılmaz, Mustafa Erdoğdu and Hande Öz",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
