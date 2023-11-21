@@ -20,8 +20,6 @@ GitHub üzerinden dosyaları local bilgisayarınıza kopyaladıktan sonra, aşa�
 
 1. TwincatAdsClientConnection adlı TwinCAT projesini çalıştırın. Twincat Projesini çalıştırmak için BeckOFF'un resmi web sitesini ziyaret ederek adım adım bir TwinCAT projesinin nasıl çalıştırılabileceğini öğrenebilirsiniz.
 
-<video src="TwincatAdsClientConnection%20-%20TcXaeShell%202023-11-21%2011-55-04.mp4" controls title="Twincat Start" ></video>
-
 ``Önemli Not:`` projeyi doğru bir şekilde çalıştırabilmek için öncelikle <a href="https://www.npmjs.com/package/ads-client">ads-client</a> npm paketi dökümasyonunu inceleyin ve aşağıdaki kısım için gerekli olan konfigürasyonları gerçekleştirin:
 
 ![twincat configuration](./docs/image-5.png)
